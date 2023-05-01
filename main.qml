@@ -266,7 +266,7 @@ Item {
 
             textData: "FilePath"
             type: DataType.FILE_PATH
-            defaultData: "C:/testQt/testData.txt"
+            defaultData: ""
         }
 
 //        CustomButton {
