@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CustomDataField.qml</file>
+        <file>CustomButton.qml</file>
+    </qresource>
+</RCC>
